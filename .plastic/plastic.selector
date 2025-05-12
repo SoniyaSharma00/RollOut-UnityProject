@@ -1,0 +1,4 @@
+repository "RobotNavigationSimulator/RobotNavigationSimulator@18968249869080@cloud"
+  path "/"
+    br "/main"
+    co "/main"
